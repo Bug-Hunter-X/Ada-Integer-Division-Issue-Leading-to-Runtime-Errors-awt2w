@@ -1,0 +1,1 @@
+This repository demonstrates a common Ada programming error related to integer division. The program includes a function performing integer division without proper handling for odd numbers, leading to unexpected results. The solution demonstrates a way to handle this scenario gracefully.
